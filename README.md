@@ -20,4 +20,4 @@
 - Matplotlib
 
 
-Ссылка на сайт - 
+Ссылка на сайт - http://taraneku.beget.tech/
